@@ -26,7 +26,11 @@ The Entropy.UI library is a work in progress user interface (UI) codebase for th
     }
 ~~~
 
-Or Xml Equivalent
+<p align="center">
+<img src="Layout0.PNG" alt="drawing"/>
+</p>
+
+Xml Representation
 
 ~~~xml
     <!--Object Tree-->
@@ -36,9 +40,6 @@ Or Xml Equivalent
         <Button Content="btn2"/>
     </LinearLayout>
 ~~~
-<p align="center">
-<img src="Layout0.PNG" alt="drawing"/>
-</p>
 
 ## Resources 
 
