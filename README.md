@@ -35,7 +35,7 @@ Or Xml Equivalent
     </LinearLayout>
 ~~~
 
-
+ ![Tux, the Linux mascot](/Layout0.png)
 
 ## Resources 
 
