@@ -8,10 +8,12 @@ The Entropy.UI library is a work in progress user interface (UI) codebase for th
     public class MenuContext : UIContext
     {
         LinearLayout layout0 = new LinearLayout(){
-            Padding = "0,0,8,4",
+            Margin = 10,
+            Padding = "10,20,10,20",
             Spacing = 10,
             Orientation = Orientation.Vertical,
             Anchor = Alignment.VCenter | Alignment.HCenter,
+            Background = Drawable.Gray
         };
         
         Button button0 = new Button() { Content = "btn0" };
