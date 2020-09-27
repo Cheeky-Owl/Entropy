@@ -38,23 +38,23 @@ Or Xml Equivalent
     <Resources xmlns:ns = "Entropy" xmlns:ns1 = "MonoGame.Framework" xmlns:ns2 = "Entropy.UI">
         <Style Id = "style0">
             
-        <Setters>
-            <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
-        </Setters>
+            <Setters>
+                <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
+            </Setters>
 
-        <Triggers>
-            <Trigger Property = "Toggled" Value ="true">
-                <Setters>
-                    <Setter Property ="Background" Value ="@Properties/Tog_ButtonPressed"/>
-                </Setters>
-            </Trigger>
+            <Triggers>
+                <Trigger Property = "Toggled" Value ="true">
+                    <Setters>
+                        <Setter Property ="Background" Value ="@Properties/Tog_ButtonPressed"/>
+                    </Setters>
+                </Trigger>
 
-            <Trigger Property = "Toggled" Value ="false">
-                <Setters>
-                    <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
-                </Setters>
-            </Trigger>
-        </Triggers>
+                <Trigger Property = "Toggled" Value ="false">
+                    <Setters>
+                        <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
+                    </Setters>
+                </Trigger>
+            </Triggers>
 
         </Style>
     </Resources> 
