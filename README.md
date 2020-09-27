@@ -69,11 +69,11 @@ namespaces for types, must be included so the xml parser can translate and creat
 There are two types of resources:
 
 - Value defined resources.
-    Simple objects like primitive data types (int, bool) or any data type that can be represented in the form of a single string. 
+    -Simple objects like primitive data types (int, bool) or any data type that can be represented in the form of a single string. 
     The codebase provides support for creating Attribute Encoders and Decoders for custom classes to use value defined resourcing.  
 
 - Property defined resources.
-    Complex objects with attributes, that are defined using xml attributes only.
+    -Complex objects with attributes, that are defined using xml attributes only.
 
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
