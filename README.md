@@ -36,7 +36,7 @@ Or Xml Equivalent
 
 
 
-## Resources :star:
+## Resources 
 
 Resource files are any xml file that uses the 'Resources Token', 
 namespaces for types, must be included so the xml parser can translate and create objects.
@@ -72,7 +72,7 @@ There are two types of resources:
 ~~~
 
 
-UI Styling:
+## Styling
 
 Resource files can also define styling, these styles work off triggers and setters. 
 
