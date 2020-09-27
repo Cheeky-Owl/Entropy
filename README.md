@@ -66,9 +66,9 @@ Resource Files:
 Resource files are any xml file that uses the 'Resources Token', 
 namespaces for types, must be included so the xml parser can translate and create objects.
 
-There are two ways to define a resource:
-- value resources.
-- object resources.
+There are two types of resources:
+- Value defined resources.
+- Property defined resources.
 
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
