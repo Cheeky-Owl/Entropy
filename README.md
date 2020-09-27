@@ -113,9 +113,3 @@ Resource files can also define styling, these styles work off triggers and sette
     </Resources> 
 ~~~
 
-
-- [ ] Finish my changes
-- [ ] Push my commits to GitHub
-- [ ] Open a pull request
-
-  ![Tux, the Linux mascot](/assets/images/tux.png)
