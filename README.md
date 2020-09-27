@@ -36,7 +36,7 @@ Or Xml Equivalent
 
 
 
-## Resources
+## Resources :star:
 
 Resource files are any xml file that uses the 'Resources Token', 
 namespaces for types, must be included so the xml parser can translate and create objects.
