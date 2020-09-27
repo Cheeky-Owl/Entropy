@@ -20,6 +20,15 @@
     }
 ~~~
 
+~~~xml
+    <LinearLayout Padding="0,0,8,4" Anchor = "VCenter,HCenter" Orientation ="Vertical">
+        <Button Content="btn0"/>
+        <Button Content="btn1"/>
+        <Button Content="btn2"/>
+    </LinearLayout>
+~~~
+
+
 - [ ] Finish my changes
 - [ ] Push my commits to GitHub
 - [ ] Open a pull request
