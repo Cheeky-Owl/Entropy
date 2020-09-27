@@ -34,7 +34,7 @@ Xml Representation
 
 ~~~xml
     <!--Object Tree-->
-    <LinearLayout Padding="0,0,8,4" Anchor="VCenter,HCenter" Orientation="Vertical">
+    <LinearLayout Padding="10,20,10,20" Anchor="VCenter,HCenter" Orientation="Vertical" Margin="10" Spacing="10", Background="#808080">
         <Button Content="btn0"/>
         <Button Content="btn1"/>
         <Button Content="btn2"/>
