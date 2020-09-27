@@ -75,9 +75,9 @@ UI Styling:
 
 Resource files can also define styling, these styles work off triggers and setters. 
 
--Setters apply values to properties.
-
--Triggers listen for conditions or changes in properties or events.
+ - Setters apply values to properties.
+ 
+ - Triggers listen for conditions or changes in properties or events.
 
 
 ~~~xml
