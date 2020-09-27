@@ -33,33 +33,7 @@ Or Xml Equivalent
     </LinearLayout>
 ~~~
 
-Styling:
-~~~xml
-    <?xml version="1.0" encoding="utf-8" ?>
-    <Resources xmlns:ns="Entropy" xmlns:ns1="MonoGame.Framework" xmlns:ns2="Entropy.UI">
-        <Style Id="style0">
-            
-            <Setters>
-                <Setter Property="Background" Value="@Properties/Tog_Button"/>
-            </Setters>
 
-            <Triggers>
-                <Trigger Property="Toggled" Value="true">
-                    <Setters>
-                        <Setter Property="Background" Value="@Properties/Tog_ButtonPressed"/>
-                    </Setters>
-                </Trigger>
-
-                <Trigger Property="Toggled" Value="false">
-                    <Setters>
-                        <Setter Property="Background" Value="@Properties/Tog_Button"/>
-                    </Setters>
-                </Trigger>
-            </Triggers>
-
-        </Style>
-    </Resources> 
-~~~
 
 <h4>Resource Files:</h4>
 
@@ -94,6 +68,37 @@ There are two types of resources:
         <NinePatchRegion Id="Tog_ButtonPressed" Texture="Textures/sheet0" X="0" Y="32" Width="32" Height="32" Padding="1"/>
 
     </Resources>
+~~~
+
+
+UI Styling:
+Resource files can also define styling, these styles work of the triggers and setters. 
+
+~~~xml
+    <?xml version="1.0" encoding="utf-8" ?>
+    <Resources xmlns:ns="Entropy" xmlns:ns1="MonoGame.Framework" xmlns:ns2="Entropy.UI">
+        <Style Id="style0">
+            
+            <Setters>
+                <Setter Property="Background" Value="@Properties/Tog_Button"/>
+            </Setters>
+
+            <Triggers>
+                <Trigger Property="Toggled" Value="true">
+                    <Setters>
+                        <Setter Property="Background" Value="@Properties/Tog_ButtonPressed"/>
+                    </Setters>
+                </Trigger>
+
+                <Trigger Property="Toggled" Value="false">
+                    <Setters>
+                        <Setter Property="Background" Value="@Properties/Tog_Button"/>
+                    </Setters>
+                </Trigger>
+            </Triggers>
+
+        </Style>
+    </Resources> 
 ~~~
 
 
