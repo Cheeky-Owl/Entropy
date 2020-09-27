@@ -1,5 +1,5 @@
 # Entropy (Monogame Toolkit)
-<h4>UI Library</h4>
+<h4>Entropy.UI</h4>
 
 ~~~csharp
     public class MenuContext : UIContext
