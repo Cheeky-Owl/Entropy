@@ -77,7 +77,7 @@ There are two types of resources:
     
     -Complex objects with attributes, that are defined using xml attributes only.
 
-<p style="color:red"><i>Resource file example:</i></p>
+<i>Resource file example:</i>
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
 
