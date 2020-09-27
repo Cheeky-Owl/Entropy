@@ -9,6 +9,7 @@ The Entropy.UI library is a work in progress user interface (UI) codebase for th
     {
         LinearLayout layout0 = new LinearLayout(){
             Padding = "0,0,8,4",
+            Spacing = 10,
             Orientation = Orientation.Vertical,
             Anchor = Alignment.VCenter | Alignment.HCenter,
         };
