@@ -1,5 +1,6 @@
 # Entropy (Monogame Extension)
-<h4>Entropy.UI</h4>
+
+## Entropy.UI
 
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
