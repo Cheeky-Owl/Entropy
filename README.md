@@ -63,6 +63,13 @@ Styling:
 
 Resource Files:
 
+Resource files are any xml file that uses the 'Resources Token', 
+namespaces for types, must be included so the xml parser can translate and create objects.
+
+There are two ways to define a resource:
+- value resources.
+- object resources.
+
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
     <Resources xmlns:ns="Entropy" xmlns:ns1="MonoGame.Framework" xmlns:ns2="Entropy.UI">
