@@ -1,6 +1,8 @@
 # Entropy (Monogame Toolkit)
 <h4>Entropy.UI</h4>
 
+The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
+
 ~~~csharp
     public class MenuContext : UIContext
     {
