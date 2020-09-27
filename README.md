@@ -36,8 +36,8 @@ Or Xml Equivalent
 Styling:
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
-    <Resources xmlns:ns = "Entropy" xmlns:ns1 = "MonoGame.Framework" xmlns:ns2 = "Entropy.UI">
-        <Style Id = "style0">
+    <Resources xmlns:ns="Entropy" xmlns:ns1="MonoGame.Framework" xmlns:ns2="Entropy.UI">
+        <Style Id="style0">
             
             <Setters>
                 <Setter Property="Background" Value="@Properties/Tog_Button"/>
