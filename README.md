@@ -67,25 +67,10 @@ Resource Files:
     <Resources xmlns:ns = "Entropy" xmlns:ns1 = "MonoGame.Framework" xmlns:ns2 = "Entropy.UI">
         
         <String Id="btn_play_Name" Value ="Play"/>
-        <USize Id="btn_title_size" Value ="200,24"/>
         <USize Id="btn_size0" Value ="34"/>
         <Thickness Id="btn_title_margin" Value ="5"/>
-
-        <Effect Id="Outline" Value ="Effects/Outline"/>
-
-        <TextureRegion Id ="Sword" Texture = "Textures/sheet0" X ="33" Y="0" Width = "32" Height ="32"/>
-        <TextureRegion Id ="Sheild" Texture = "Textures/sheet0" X ="64" Y="0" Width = "32" Height ="32"/>
-        <TextureRegion Id ="Gear" Texture = "Textures/Skin" X ="392" Y="64" Width = "48" Height ="48"/>
-
         <NinePatchRegion Id ="Tog_Button" Texture = "Textures/sheet0" X ="0" Y="0" Width = "32" Height ="32" Padding ="2"/>
         <NinePatchRegion Id ="Tog_ButtonPressed" Texture = "Textures/sheet0" X ="0" Y="32" Width = "32" Height ="32" Padding ="1"/>
-        <NinePatchRegion Id ="Background1" Texture = "Textures/Skin" X ="0" Y="0" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Background2" Texture = "Textures/Skin" X ="0" Y="0" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Background3" Texture = "Textures/Skin" X ="0" Y="0" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Tab1" Texture = "Textures/Skin" X ="201" Y="79" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Tab2" Texture = "Textures/Skin" X ="201" Y="95" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Tab3" Texture = "Textures/Skin" X ="252" Y="79" Width = "50" Height ="15" Padding = "5"/>
-        <NinePatchRegion Id ="Tab4" Texture = "Textures/Skin" X ="252" Y="95" Width = "50" Height ="15" Padding = "5"/>
 
     </Resources>
 ~~~
