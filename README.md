@@ -40,19 +40,19 @@ Styling:
         <Style Id = "style0">
             
             <Setters>
-                <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
+                <Setter Property="Background" Value="@Properties/Tog_Button"/>
             </Setters>
 
             <Triggers>
-                <Trigger Property = "Toggled" Value ="true">
+                <Trigger Property="Toggled" Value="true">
                     <Setters>
-                        <Setter Property ="Background" Value ="@Properties/Tog_ButtonPressed"/>
+                        <Setter Property="Background" Value="@Properties/Tog_ButtonPressed"/>
                     </Setters>
                 </Trigger>
 
-                <Trigger Property = "Toggled" Value ="false">
+                <Trigger Property="Toggled" Value="false">
                     <Setters>
-                        <Setter Property ="Background" Value ="@Properties/Tog_Button"/>
+                        <Setter Property="Background" Value="@Properties/Tog_Button"/>
                     </Setters>
                 </Trigger>
             </Triggers>
@@ -65,13 +65,13 @@ Resource Files:
 
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
-    <Resources xmlns:ns = "Entropy" xmlns:ns1 = "MonoGame.Framework" xmlns:ns2 = "Entropy.UI">
+    <Resources xmlns:ns="Entropy" xmlns:ns1="MonoGame.Framework" xmlns:ns2="Entropy.UI">
         
-        <String Id="btn_play_Name" Value ="Play"/>
-        <USize Id="btn_size0" Value ="34"/>
-        <Thickness Id="btn_title_margin" Value ="5"/>
-        <NinePatchRegion Id ="Tog_Button" Texture = "Textures/sheet0" X ="0" Y="0" Width = "32" Height ="32" Padding ="2"/>
-        <NinePatchRegion Id ="Tog_ButtonPressed" Texture = "Textures/sheet0" X ="0" Y="32" Width = "32" Height ="32" Padding ="1"/>
+        <String Id="btn_play_Name" Value="Play"/>
+        <USize Id="btn_size0" Value="34"/>
+        <Thickness Id="btn_title_margin" Value="5"/>
+        <NinePatchRegion Id="Tog_Button" Texture="Textures/sheet0" X ="0" Y="0" Width="32" Height="32" Padding="2"/>
+        <NinePatchRegion Id="Tog_ButtonPressed" Texture="Textures/sheet0" X="0" Y="32" Width="32" Height="32" Padding="1"/>
 
     </Resources>
 ~~~
