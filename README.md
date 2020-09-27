@@ -34,8 +34,9 @@ Or Xml Equivalent
         <Button Content="btn2"/>
     </LinearLayout>
 ~~~
-
+<p align="center">
 <img src="Layout0.PNG" alt="drawing"/>
+</p>
 
 ## Resources 
 
