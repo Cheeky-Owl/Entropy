@@ -35,7 +35,7 @@ Or Xml Equivalent
     </LinearLayout>
 ~~~
 <p align="center">
-<img src="Layout0.PNG" alt="drawing" width="401" height="256"/>
+<img src="Layout0.PNG" alt="drawing"/>
 </p>
 
 ## Resources 
