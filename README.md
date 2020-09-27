@@ -72,7 +72,13 @@ There are two types of resources:
 
 
 UI Styling:
-Resource files can also define styling, these styles work of the triggers and setters. 
+
+Resource files can also define styling, these styles work off triggers and setters. 
+
+-Setters apply values to properties.
+
+-Triggers listen for conditions or changes in properties or events.
+
 
 ~~~xml
     <?xml version="1.0" encoding="utf-8" ?>
