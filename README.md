@@ -20,6 +20,8 @@
     }
 ~~~
 
+Or Xml Equivalent
+
 ~~~xml
     <LinearLayout Padding="0,0,8,4" Anchor = "VCenter,HCenter" Orientation ="Vertical">
         <Button Content="btn0"/>
