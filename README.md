@@ -2,6 +2,8 @@
 
 ## Entropy.UI
 
+[button url="http://www.google.com"]
+
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
 ~~~csharp
