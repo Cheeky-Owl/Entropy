@@ -2,19 +2,6 @@
 
 ## Entropy.UI
 
-My important paragraph.
-{: .alert .alert-info}
-
-<div class="panel panel-info">
-**Note**
-{: .panel-heading}
-<div class="panel-body">
-
-NOTE DESCRIPTION
-
-</div>
-</div>
-
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
 - [Getting Started](/GettingStarted.md)
