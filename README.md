@@ -2,11 +2,8 @@
 
 ## Entropy.UI
 
-<div>
-
-*Emphasized* text.
-
-</div>
+My important paragraph.
+{: .alert .alert-info}
 
 
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
