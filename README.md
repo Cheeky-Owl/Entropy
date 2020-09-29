@@ -23,7 +23,7 @@ engagment, sugestions and feedback is welcome.
 
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
-- [Getting Started](/GettingStarted.md)
+- [Getting Started](https://github.com/Cheeky-Owl/Entropy/wiki/Getting-Started-with-Entropy.UI)
 - [Styling](/Styling.md)
 - [Xml Intergration](/Xml.md)
 - [Layouts](/GettingStarted.md)
