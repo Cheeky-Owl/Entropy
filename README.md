@@ -5,6 +5,10 @@
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
 - [Getting Started](/GettingStarted.md)
+- [Styling](/GettingStarted.md)
+- [Layouts](/GettingStarted.md)
+- [Font](/GettingStarted.md)
+- [Binding](/GettingStarted.md)
 
 ~~~csharp
     public class MenuContext : UIContext
