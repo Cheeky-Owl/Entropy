@@ -2,12 +2,7 @@
 
 ## Entropy.UI
 
----
-**NOTE**
-
-It works with almost all markdown flavours (the below blank line matters).
-
----
+<div> </div>
 
 
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
