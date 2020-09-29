@@ -2,6 +2,20 @@
 
 Entropy is a Monogame extension project that aims to make desinging and creating games easier.
 
+This project includes:
+- UI library
+  - Rich Text rendering
+  - Scalable UI elements (Views)
+  - Layout Elements (Linear, Grid, Absolute)
+  - Xml resourcing & intergration
+- Screen managment system
+- Coroutine
+- Particle Sysytem
+- Generic helper classes
+  - Jaggered Array tools
+  - Math
+  - Random
+
 This project is in it's very early stages of development, it requires alot of improvment so community 
 engagment, sugestions and feedback is welcome.  
 
