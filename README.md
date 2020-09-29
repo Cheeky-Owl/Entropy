@@ -6,7 +6,7 @@ The Entropy.UI library is a work in progress user interface (UI) codebase for th
 
 - [Getting Started](/GettingStarted.md)
 - [Styling](/Styling.md)
-- [Xml Serialization](/Xml.md)
+- [Xml Intergration](/Xml.md)
 - [Layouts](/GettingStarted.md)
 - [Text](/GettingStarted.md)
 - [Binding](/GettingStarted.md)
