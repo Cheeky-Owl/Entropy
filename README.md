@@ -4,6 +4,12 @@
 
 ## Description
 
+## Prerequisites
+
+- Monogame.Framework
+- Entropy.Core
+
+
 ## Installation
 
 ## License
