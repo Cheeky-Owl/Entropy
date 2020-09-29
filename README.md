@@ -2,7 +2,11 @@
 
 ## Entropy.UI
 
-<div> </div>
+<div>
+
+*Emphasized* text.
+
+</div>
 
 
 The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
