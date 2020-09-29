@@ -2,7 +2,14 @@
 
 ## Entropy.UI
 
-## Description
+The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
+
+- [Getting Started](/GettingStarted.md)
+- [Styling](/GettingStarted.md)
+- [Layouts](/GettingStarted.md)
+- [Text](/GettingStarted.md)
+- [Binding](/GettingStarted.md)
+
 
 ## Prerequisites
 
@@ -14,16 +21,14 @@
 
 ## License
 
+- MIT License
+
 ## Contact
 
+- Hamish.Moulder@Outlook.com
 
-The Entropy.UI library is a work in progress user interface (UI) codebase for the Monogame framework.  
 
-- [Getting Started](/GettingStarted.md)
-- [Styling](/GettingStarted.md)
-- [Layouts](/GettingStarted.md)
-- [Text](/GettingStarted.md)
-- [Binding](/GettingStarted.md)
+
 
 ~~~csharp
     public class MenuContext : UIContext
