@@ -25,7 +25,7 @@ The Entropy.UI library is a work in progress user interface (UI) codebase for th
 
 ## Contact
 
-- Hamish.Moulder@Outlook.com
+Email: Hamish.Moulder@Outlook.com
 
 
 
